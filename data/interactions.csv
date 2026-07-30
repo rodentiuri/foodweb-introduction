@@ -1,0 +1,10 @@
+predator,prey
+Grasshopper,Grass
+Frog,Grasshopper
+Snake,Frog
+Hawk,Snake
+Snake,Mouse
+Hawk,Mouse
+Fox,Mouse
+Fox,Rabbit
+Rabbit,Grass
