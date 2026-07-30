@@ -2,6 +2,8 @@
 
 Learning ecological network analysis in R.
 
+First of a series...
+
 ## Author
 
 Iuri Amaral
