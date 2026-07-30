@@ -1,0 +1,7 @@
+# Food Web Introduction
+
+Learning ecological network analysis in R.
+
+## Author
+
+Iuri Amaral
